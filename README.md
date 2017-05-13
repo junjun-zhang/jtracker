@@ -1,3 +1,5 @@
 # JTracker
 
-JTracker is a Python library for distributed job scheduling and tracking backed on Git repository.
+JTracker is a Git repository based solution for workflow management and execution.
+
+This project has been moved to https://github.com/icgc-dcc/jtracker
